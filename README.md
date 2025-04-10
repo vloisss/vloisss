@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @vloisss
-- 👀 I’m interested in cybersecurity and full-stack development
-- 🌱 I am a computer science major with a specialization in cybersecurity. I’m currently studying for the CISSP and CEH certifications
-- 💞️ I’m looking to collaborate on anything! I am very new to the tech world and would love the opportunity to expand my horizons
+
